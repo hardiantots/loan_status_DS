@@ -13,8 +13,10 @@ Proyek ini bertujuan membangun model prediksi risiko kredit menggunakan data pin
 - `models/` : Folder hasil penyimpanan model terlatih (.pkl).
 
 ## Alur Proses
+![Proses](img_readme/process.png)
 
 ## Hasil Evaluasi
+![Hasil Evaluasi](img_readme/table_result.png)
 
 ## Deployment & Model Terbaik
 
